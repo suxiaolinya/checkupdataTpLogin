@@ -24,3 +24,6 @@
 * 如果设置权限上线点会多出permission项
 * 如果需删除权限上线点请进入配置文件删除对应的权限下包括的所有内容
 * 然后/tl reload
+
+
+![统计信息](https://bstats.org/signatures/bukkit/suTpLogin.svg)
